@@ -1,19 +1,21 @@
-# c-gmaps
+# Componente google-map personalizado
 
-## Project setup
+Creamos Nuestro propio componente vuejs para la implementación de un mapa google con la funcionalidad de cuando realizamos un click en cualquier lugar del mapa obtenemos la dirección, latitud, longitud.
+
+### inicialozación
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Ver resultado
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Para ver con mas detalles como funciona
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- [Video](https://youtu.be/GUCHXpvg1Qg)
+- [Video Adfly](http://fumacrom.com/yzP2)
+- [Como se hizo - blog](https://kraneo--code.blogspot.com/2021/06/componente-gmaps-vue-cli.html)
+- [Como se hizo - blog adfly](http://fumacrom.com/yywe)
+
